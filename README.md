@@ -27,5 +27,5 @@ How to reproduce figures:
    docker run --rm -it -p 7777:8888 -v <path to cloned repo>:/home/sc primelabzurich/single_cell:1.0
    ```
    ```
-   docker run --rm -it -p 7777:8888 -v <path to cloned repo>:/home/sc primelabzurich/single_cell:1.0
+   docker run --rm -it -p 7777:8888 -v <path to cloned repo>:/home/sc primelabzurich/spatial:1.0
    ```
