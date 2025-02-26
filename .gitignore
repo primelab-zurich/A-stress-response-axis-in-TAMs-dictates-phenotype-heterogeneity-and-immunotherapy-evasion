@@ -1,0 +1,10 @@
+cache/
+.ipynb_checkpoints/
+*-checkpoint.*
+*.pyc
+__pycache__/
+**/data/intermediate/
+**/data/raw/
+**/results/
+*.nb.html
+*.h5ad
